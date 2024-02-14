@@ -8,8 +8,9 @@
 
 ## Server side swagger
 
-- `npm run start-gendoc`
-- Open http://localhost:3000/api-docs/ to view it in the browser pages
+1. `npm run start-gendoc`
+2. `npm run server`
+3. Open http://localhost:3000/api-docs/ to view it in the browser pages
 
 ## client side swagger
 
